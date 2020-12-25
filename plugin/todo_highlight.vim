@@ -1,6 +1,8 @@
 " File: todo_highlight.vim
 " Author: Saksham Gupta <https://github.com/sakshamgupta05>
-" Description: a Vim/Neovim plugin to highlight todos and fixmes
+" Autho: Keith Miyake <https://github.com/kaymmm>
+" Description: a Vim/Neovim plugin to highlight todos and fixmes, forked to
+" allow user configuration of highlight terms
 
 " make sure file is loaded only once
 if exists('g:loaded_todo_highlight')
